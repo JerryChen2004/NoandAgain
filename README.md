@@ -1,5 +1,5 @@
 # No&Again
-My 1st Game Project
+My 1st Game Project (Acadamic Project)
 <br/>
 Developed with Unreal Engine 5 and Blender
 <br/>
